@@ -4,5 +4,3 @@ test the program
 Start writing 'C' code
 write new book
 Copyright publication
-Go to library
-Go to library
